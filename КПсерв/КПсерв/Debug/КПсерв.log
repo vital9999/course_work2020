@@ -1,0 +1,15 @@
+﻿  КПсерв.cpp
+C:\Users\vaant\source\repos\КПсерв\КПсерв\Header.h(107,8): warning C4101: buff: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(51,7): warning C4101: t: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(89,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(90,1): warning C5043: "Enter::check": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\vaant\source\repos\КПсерв\КПсерв\Header.h(44): message : см. объявление "Enter::check"
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(94,7): warning C4101: m: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(95,7): warning C4101: res: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(158,8): warning C4101: f: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(156,7): warning C4101: filename: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(281,16): warning C4101: c: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(341,16): warning C4101: c: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(413,15): warning C4101: c: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КПсерв\КПсерв\КПсерв.cpp(30): warning C4715: Exception::show: значение возвращается не при всех путях выполнения
+  КПсерв.vcxproj -> C:\Users\vaant\source\repos\КПсерв\Debug\КПсерв.exe

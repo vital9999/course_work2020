@@ -1,0 +1,5 @@
+﻿  КП.cpp
+C:\Users\vaant\source\repos\КП\КП\Header.h(41,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vaant\source\repos\КП\КП\КП.cpp(75,8): warning C4101: name: неиспользованная локальная переменная
+C:\Users\vaant\source\repos\КП\КП\КП.cpp(74,8): warning C4101: buf1: неиспользованная локальная переменная
+  КП.vcxproj -> C:\Users\vaant\source\repos\КП\Debug\КПклиент.exe
